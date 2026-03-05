@@ -1,0 +1,23 @@
+{
+  "name": "blockchainjs",
+  "version": "1.0.0",
+  "main": "Blockchain_backend.js",
+  "scripts": {
+    "start": "node Blockchain_backend.js",
+    "dev": "nodemon Blockchain_backend.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^4.21.0",
+    "mongoose": "^9.2.4",
+    "node-fetch": "^2.7.0",
+    "node-fetch2": "^1.6.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "description": ""
+}
